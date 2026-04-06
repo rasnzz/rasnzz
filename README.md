@@ -19,7 +19,7 @@
 
 <br/>
 
-### 🦇 Dark Stack
+### 🦇 Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=8B0000&labelColor=1A1A1A" />
@@ -34,7 +34,7 @@
 
 ---
 
-### 📬 Whispers from the dark
+### 📬 Connect
 
 <p align="center">
   <a href="https://t.me/rasnzz">
