@@ -53,11 +53,3 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=nobodylovesme&label=Profile+views&color=8B0000&style=flat&labelColor=000000" alt="profile views" />
 </p>
-
-<p align="center">
-  <span style="color:#2F4F4F;">_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _</span>
-</p>
-
-<p align="center">
-  <span style="color:#696969;">✦  sleep is for the weak  ✦</span>
-</p>
