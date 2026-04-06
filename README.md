@@ -10,7 +10,7 @@
 -->
 
 <h1 align="center" style="color: #8B0000; text-shadow: 0 0 8px #FF4500; font-family: 'Courier New', monospace;">
-   No Body Loves Me 
+   nobodylovesme 
 </h1>
 
 <p align="center">
