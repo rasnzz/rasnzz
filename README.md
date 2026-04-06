@@ -7,14 +7,14 @@
   ╚═╝  ╚═══╝ ╚═════╝ ╚═════╝  ╚═════╝ ╚═════╝    ╚═╝   
 -->
 
-<h1 align="center">Nobody Loves Me? 🖤</h1>
+<h1 align="center">No Body Loves Me</h1>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6C63FF&center=true&vCenter=true&width=435&lines=Junior+Python+Developer;Open+Source+Enthusiast;Building+Telegram+Bots+%26+AI+Tools;Always+learning+new+things" alt="Typing SVG" />
 </p>
 
 ---
 
-### 🛠️ Технологии и инструменты
+### 🛠️ Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -29,7 +29,7 @@
 
 ---
 
-### 📫 Как связаться
+### 📫 Connect
 
 <p align="center">
   <a href="https://t.me/rasnzz">
