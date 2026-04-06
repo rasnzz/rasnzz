@@ -10,15 +10,11 @@
 -->
 
 <h1 align="center" style="color: #8B0000; text-shadow: 0 0 8px #FF4500; font-family: 'Courier New', monospace;">
-  ☠️ No Body Loves Me ☠️
+   No Body Loves Me 
 </h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8B0000&center=true&vCenter=true&width=435&lines=Junior+Python+Developer;Dark+Side+Coder;Building+Telegram+Bots+%26+AI+Tools;Always+learning+...;You+shouldn't+be+here" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <span style="color:#696969;">⚠️</span> <span style="color:#A9A9A9;">Enter at your own risk</span> <span style="color:#696969;">⚠️</span>
 </p>
 
 <br/>
